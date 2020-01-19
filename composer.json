@@ -1,0 +1,16 @@
+{
+    "name": "eugenlisov/dm-zoho-books-wrapper",
+    "version": "1.01",
+    "minimum-stability": "dev",
+    "description": "A custom wrapper around the Zoho Books API",
+    "keywords": ["Zoho","Zoho Books"],
+    "homepage": "https://github.com/eugenlisov/dm-zoho-books-wrapper",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DM_ZCRM\\": [
+                "app"
+              ]
+        }
+    }
+}
